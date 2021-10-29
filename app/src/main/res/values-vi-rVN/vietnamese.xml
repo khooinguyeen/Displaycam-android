@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Camera</string>
+    <string name="btnRecord">BẮT ĐẦU QUAY</string>
+    <string name="btnStop">DỪNG QUAY</string>
+</resources>

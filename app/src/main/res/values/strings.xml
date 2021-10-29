@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Displaycam</string>
+    <string name="btnRecord">START RECORDING</string>
+    <string name="btnStop">STOP RECORDING</string>
+</resources>
